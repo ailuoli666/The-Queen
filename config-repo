@@ -1,0 +1,7 @@
+// 开发环境
+configserver.properties
+configclient1.properties
+configclient2.properties
+// 测试环境
+
+// 生产环境
